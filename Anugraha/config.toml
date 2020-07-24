@@ -1,8 +1,8 @@
-baseURL = "https://example.com/"
+baseURL = "https://anugrahaambily.github.io"
 languageCode = "en-us"
 title = "Anugraha A"
 theme = "personal-web"
-copyright="© Edna West"
+copyright="© Anugraha"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -40,7 +40,7 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = "/img/butterfly.jpeg" # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
   logo = "/img/avatar.jpg" # - default "/images/edna-west.jpg"
 [params.assets]
