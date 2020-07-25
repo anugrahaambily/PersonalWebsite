@@ -2,7 +2,7 @@
 title: TOC for paper on hydrogen peroxide generation
 # description: This is the description of our sample project
 date: "2020-24-07T23:39:15+5:30"
-jobDate: 2020
+jobDate: 2019
 work: [design]
 designs: [Inkscape]
 thumbnail: toc-hyd-peroxide/tochydperoxide.png
