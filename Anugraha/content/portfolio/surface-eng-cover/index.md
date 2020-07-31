@@ -6,6 +6,12 @@ jobDate: 2020
 work: [painting]
 designs: [Inkscape]
 thumbnail: surface-eng-cover/surfaceengcover.jpg
+projectUrl: https://www.tifrh.res.in/~tnn/
+testimonial:
+   name: T N Narayanan
+   role: Associate Professor, TIFR Hyderabad
+   image: surface-eng-cover/tnn.jpg
+   text: I already got a few chances to work with Anugraha where she could portray our scientific findings in a very simple but convincing manner.  Anugraha's picturizations are found to be adoring the scientific concept behind them. I have seen her works on both the hand-drawn  and digital illustrations, and both conveys her excellence in drawing and capacity in assimilating scientific and non-scientific ideas. 
 
 ---
 

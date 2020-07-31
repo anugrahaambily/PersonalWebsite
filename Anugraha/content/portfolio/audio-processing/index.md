@@ -8,11 +8,11 @@ work: [design]
 designs: [Adobe Illustrator]
 thumbnail: audio-processing/audioprocessing.jpg
 # projectUrl: https://www.sampleorganization.org
-# testimonial:
-#   name: Anugraha A
-#   role: Science illustrator
-#   image: audio-processing/audioprocessing.jpg
-#   text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin
+testimonial:
+   name: Arjun pankajakshan
+   role: PhD student, Queen's Mary university, London
+   image: audio-processing/arjun.jpg
+   text: Working with Anugraha is uncomplicated. The communication is clear and she has a good feeling of what a project needs. In addition her concepts are insightful, simple and coherent. I am very much pleased with the project she did for me - Many thanks Anugraha. Keep going!  !Highly recommended.
 ---
 
 This work was prepared as cover for the official website of a PhD student at Queen's Mary University, London. His work is mainly focused on audio processing. 
