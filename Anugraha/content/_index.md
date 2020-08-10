@@ -1,7 +1,6 @@
 ---
-title: 
-description: Welcome to this sample project
-images: ["cover-quantum/quantumcover.jpg"]
+title: Home
+description: Welcome page content
 ---
 
 ❝Based on my experiences so far, I have noticed that the present learning methodology emphasizes more on texts rather than illustrations. But I suggest equal weightage on both. Present day text books, especially for school going students, have long endless paras and barely a figure. On the other hand a fully descriptive illustration too can kill the curiosity and eagerness in students. Though a minor fraction of students can deal with the lengthy texts, a larger fraction would prefer pictorial representation. Ideally one's memory runs long term on those concepts which are developed via creative thinking. An effective illustration can cover wide aspects which can develop curiosity and thinking potential in students.  
