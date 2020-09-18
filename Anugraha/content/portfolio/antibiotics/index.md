@@ -8,6 +8,7 @@ designs: [Adobe Illustrator]
 thumbnail: antibiotics/antibiotics.jpg
 weight: -100
 ---
+Designed for the official student magazine of IISER-M , Manthan ( August edition)
 
 " Drug resistance imposes huge costs on health systems and is taking a growing-and unnecessary-toll in lives and threatening to roll back much of the progress we have made" - Ban Ki-moon
 
