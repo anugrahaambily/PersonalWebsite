@@ -88,6 +88,13 @@ pygmentsCodeFences=true
   url = "/publications/"
   weight = -100
 
+[[menu.main]]
+  identifier = "cv"
+  name = "CV"
+  title = "CV"
+  url = "/cv.pdf"
+  weight = -90
+
 
 [sitemap]
   changefreq = "monthly"
